@@ -1,0 +1,48 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.left-column {
+    background: rgb(74,144,226);
+    float: left;
+    width: 33.3%;
+    height: 100%;
+}
+
+.center-column {
+    background: rgb(80,227,194);
+    margin: 0;
+    padding: 0;
+    float: left;
+    width: 33.3%;
+    height: 100%;
+
+}
+
+.right-column {
+    background: rgb(184,233,134);
+    margin: 0;
+    padding: 0;
+    float: left;
+    width: 33.4%;
+    height: 100%;
+    position: relative;
+}
+
+.place-holder {
+    background: rgb(208,2,27);
+    width: 100%;
+    margin: 0;
+    height: 25%;
+    position: absolute;
+    bottom: 0;
+}
+
+.place-holder p {
+    color: white;
+    font-size: 22px;
+    text-align: center;
+    padding-top: 45px;
+}
