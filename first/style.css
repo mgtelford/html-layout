@@ -4,12 +4,7 @@ html, body {
     margin: 0;
     padding: 0;
 }
-.base-color {
-    background: lightblue;
-    width: 40%;
-    margin: 0 auto;
-    height: 25%;
-}
+
 
 .header-color {
     background: #444;
@@ -30,3 +25,4 @@ html, body {
     width: 50%;
     margin: 0 auto;
     height: 15%;
+}
